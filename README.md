@@ -77,6 +77,6 @@ HospitalDeliveriesApp contains the dependencies (manual DI).
 9. Use-cases layers and MVI architecture for dealing with complicated code.
 10. Handling offline-mode(including caching).
 11. Kiosk mode.
-12. Multi-language support.
+12. Multi-languages support.
 13. No need for accessibility - this is only a legal requirement, for mass-production 
     google-play-oriented apps.
