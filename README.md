@@ -76,5 +76,7 @@ HospitalDeliveriesApp contains the dependencies (manual DI).
 8. Analytics+telemetrics tracking to get maximum information on users behaviour + robot maintainance.
 9. Use-cases layers and MVI architecture for dealing with complicated code.
 10. Handling offline-mode(including caching).
-11. No need for accessibility - this is only a legal requirement, for mass-production 
-   google-play-oriented apps.
+11. Kiosk mode.
+12. Multi-language support.
+13. No need for accessibility - this is only a legal requirement, for mass-production 
+    google-play-oriented apps.
